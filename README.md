@@ -11,11 +11,3 @@ The task involved solving the given SQL question and integrating it with a Sprin
 - **Build Tool:** Maven  
 - **Deliverable:** Runnable JAR file  
 
----
-
-## How to Build & Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/abinaya-emana/bajaj-challenge.git
-   cd bajaj-challenge
